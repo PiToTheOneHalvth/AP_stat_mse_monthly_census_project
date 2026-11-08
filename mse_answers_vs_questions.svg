@@ -1,0 +1,448 @@
+<svg viewBox="0 0 920 860" xmlns="http://www.w3.org/2000/svg" width="920" height="860"><style>text{font-family:system-ui,-apple-system,"Helvetica Neue",sans-serif}</style><svg x="0" y="0" width="920" height="560" viewBox="0 0 920 560" xmlns="http://www.w3.org/2000/svg">
+<line x1="62.0" y1="522" x2="62.0" y2="526" stroke="#1a1a1a"/>
+<text x="62.0" y="537" text-anchor="middle" font-size="10" fill="#707070">0k</text>
+<line x1="257.3703703703704" y1="522" x2="257.3703703703704" y2="526" stroke="#1a1a1a"/>
+<text x="257.3703703703704" y="537" text-anchor="middle" font-size="10" fill="#707070">4k</text>
+<line x1="452.74074074074076" y1="522" x2="452.74074074074076" y2="526" stroke="#1a1a1a"/>
+<text x="452.74074074074076" y="537" text-anchor="middle" font-size="10" fill="#707070">8k</text>
+<line x1="648.1111111111112" y1="522" x2="648.1111111111112" y2="526" stroke="#1a1a1a"/>
+<text x="648.1111111111112" y="537" text-anchor="middle" font-size="10" fill="#707070">12k</text>
+<line x1="843.4814814814815" y1="522" x2="843.4814814814815" y2="526" stroke="#1a1a1a"/>
+<text x="843.4814814814815" y="537" text-anchor="middle" font-size="10" fill="#707070">16k</text>
+<line x1="62" y1="522.0" x2="906" y2="522.0" stroke="#e0e0e0"/>
+<text x="54" y="525.5" text-anchor="end" font-size="10.5" fill="#707070">0k</text>
+<line x1="62" y1="394.5" x2="906" y2="394.5" stroke="#e0e0e0"/>
+<text x="54" y="398.0" text-anchor="end" font-size="10.5" fill="#707070">6k</text>
+<line x1="62" y1="267.0" x2="906" y2="267.0" stroke="#e0e0e0"/>
+<text x="54" y="270.5" text-anchor="end" font-size="10.5" fill="#707070">12k</text>
+<line x1="62" y1="139.50000000000006" x2="906" y2="139.50000000000006" stroke="#e0e0e0"/>
+<text x="54" y="143.00000000000006" text-anchor="end" font-size="10.5" fill="#707070">17k</text>
+<line x1="62" y1="12.0" x2="906" y2="12.0" stroke="#e0e0e0"/>
+<text x="54" y="15.5" text-anchor="end" font-size="10.5" fill="#707070">23k</text>
+<line x1="62" y1="522" x2="906" y2="522" stroke="#1a1a1a" stroke-width="1.1"/>
+<line x1="62" y1="12" x2="62" y2="522" stroke="#1a1a1a" stroke-width="1.1"/>
+<text x="484.0" y="552" text-anchor="middle" font-size="11" fill="#1a1a1a">Questions posted that month</text>
+<text x="14" y="267.0" text-anchor="middle" font-size="11" fill="#1a1a1a" transform="rotate(-90 14 267.0)">Answers that month</text>
+<line x1="62.0" y1="518.3352235030724" x2="843.4814814814815" y2="54.75971958168083" stroke="#c00000" stroke-width="1.8"/>
+<circle cx="70.4502966620599" cy="503.4089208155819" r="2.8" fill="rgb(240,78,60)" opacity="0.95"><title>2010-07 — 309 questions, 844 answers (ratio 2.73)</title></circle>
+<circle cx="83.44323835054506" cy="488.54046293704846" r="2.8" fill="rgb(238,79,60)" opacity="0.95"><title>2010-08 — 575 questions, 1,519 answers (ratio 2.64)</title></circle>
+<circle cx="82.9059362506453" cy="494.70811953851415" r="2.8" fill="rgb(235,81,60)" opacity="0.95"><title>2010-09 — 564 questions, 1,239 answers (ratio 2.20)</title></circle>
+<circle cx="96.28964310269393" cy="487.3509863067658" r="2.8" fill="rgb(233,82,61)" opacity="0.95"><title>2010-10 — 838 questions, 1,573 answers (ratio 1.88)</title></circle>
+<circle cx="113.72753852671349" cy="468.89207119237903" r="2.8" fill="rgb(230,84,61)" opacity="0.95"><title>2010-11 — 1,195 questions, 2,411 answers (ratio 2.02)</title></circle>
+<circle cx="107.8172154278161" cy="478.09950140456715" r="2.8" fill="rgb(228,86,62)" opacity="0.95"><title>2010-12 — 1,074 questions, 1,993 answers (ratio 1.86)</title></circle>
+<circle cx="112.40870609968678" cy="474.28877071866157" r="2.8" fill="rgb(226,87,62)" opacity="0.95"><title>2011-01 — 1,168 questions, 2,166 answers (ratio 1.85)</title></circle>
+<circle cx="127.59970183321643" cy="465.8082428916462" r="2.8" fill="rgb(223,89,62)" opacity="0.95"><title>2011-02 — 1,479 questions, 2,551 answers (ratio 1.72)</title></circle>
+<circle cx="147.52872517495308" cy="448.38461299250554" r="2.8" fill="rgb(221,90,63)" opacity="0.95"><title>2011-03 — 1,887 questions, 3,342 answers (ratio 1.77)</title></circle>
+<circle cx="151.97367891048748" cy="452.26142571342683" r="2.8" fill="rgb(218,92,63)" opacity="0.95"><title>2011-04 — 1,978 questions, 3,166 answers (ratio 1.60)</title></circle>
+<circle cx="155.88133054612211" cy="443.8690072664324" r="2.8" fill="rgb(216,93,63)" opacity="0.95"><title>2011-05 — 2,058 questions, 3,547 answers (ratio 1.72)</title></circle>
+<circle cx="149.67793357455213" cy="441.7103274559194" r="2.8" fill="rgb(213,95,64)" opacity="0.95"><title>2011-06 — 1,931 questions, 3,645 answers (ratio 1.89)</title></circle>
+<circle cx="145.47720806624488" cy="447.6577106073328" r="2.8" fill="rgb(211,96,64)" opacity="0.95"><title>2011-07 — 1,845 questions, 3,375 answers (ratio 1.83)</title></circle>
+<circle cx="156.41863264602188" cy="445.2126753117517" r="2.8" fill="rgb(209,98,65)" opacity="0.95"><title>2011-08 — 2,069 questions, 3,486 answers (ratio 1.68)</title></circle>
+<circle cx="187.5821544402081" cy="426.5334867473127" r="2.8" fill="rgb(206,99,65)" opacity="0.95"><title>2011-09 — 2,707 questions, 4,334 answers (ratio 1.60)</title></circle>
+<circle cx="204.77582163700046" cy="416.0484705248209" r="2.8" fill="rgb(204,101,65)" opacity="0.95"><title>2011-10 — 3,059 questions, 4,810 answers (ratio 1.57)</title></circle>
+<circle cx="219.7714347887484" cy="410.10108737340755" r="2.8" fill="rgb(201,103,66)" opacity="0.95"><title>2011-11 — 3,366 questions, 5,080 answers (ratio 1.51)</title></circle>
+<circle cx="194.17631657534153" cy="422.54653730136516" r="2.8" fill="rgb(199,104,66)" opacity="0.95"><title>2011-12 — 2,842 questions, 4,515 answers (ratio 1.59)</title></circle>
+<circle cx="205.31312373690022" cy="418.493505820402" r="2.8" fill="rgb(197,106,66)" opacity="0.95"><title>2012-01 — 3,070 questions, 4,699 answers (ratio 1.53)</title></circle>
+<circle cx="238.13739747623117" cy="395.9375045350416" r="2.8" fill="rgb(194,107,67)" opacity="0.95"><title>2012-02 — 3,742 questions, 5,723 answers (ratio 1.53)</title></circle>
+<circle cx="251.8141782009524" cy="385.4524883125499" r="2.8" fill="rgb(192,109,67)" opacity="0.95"><title>2012-03 — 4,022 questions, 6,199 answers (ratio 1.54)</title></circle>
+<circle cx="265.7351871529008" cy="378.60198401592186" r="2.8" fill="rgb(189,110,67)" opacity="0.95"><title>2012-04 — 4,307 questions, 6,510 answers (ratio 1.51)</title></circle>
+<circle cx="282.44039789523885" cy="367.65439354832023" r="2.8" fill="rgb(187,112,68)" opacity="0.95"><title>2012-05 — 4,649 questions, 7,007 answers (ratio 1.51)</title></circle>
+<circle cx="267.9820868433907" cy="364.94503011267636" r="2.8" fill="rgb(184,113,68)" opacity="0.95"><title>2012-06 — 4,353 questions, 7,130 answers (ratio 1.64)</title></circle>
+<circle cx="251.56994997372522" cy="372.0158078593567" r="2.8" fill="rgb(182,115,69)" opacity="0.95"><title>2012-07 — 4,017 questions, 6,809 answers (ratio 1.70)</title></circle>
+<circle cx="248.93228511967186" cy="371.6193156492625" r="2.8" fill="rgb(180,116,69)" opacity="0.95"><title>2012-08 — 3,963 questions, 6,827 answers (ratio 1.72)</title></circle>
+<circle cx="295.2379570019423" cy="342.2348374122794" r="2.8" fill="rgb(177,118,69)" opacity="0.95"><title>2012-09 — 4,911 questions, 8,161 answers (ratio 1.66)</title></circle>
+<circle cx="385.4558641396569" cy="298.0479833317785" r="2.8" fill="rgb(175,120,70)" opacity="0.95"><title>2012-10 — 6,758 questions, 10,167 answers (ratio 1.50)</title></circle>
+<circle cx="412.85827123454476" cy="281.8358574079257" r="2.8" fill="rgb(172,121,70)" opacity="0.95"><title>2012-11 — 7,319 questions, 10,903 answers (ratio 1.49)</title></circle>
+<circle cx="390.3404286842002" cy="287.82729524934956" r="2.8" fill="rgb(170,123,70)" opacity="0.95"><title>2012-12 — 6,858 questions, 10,631 answers (ratio 1.55)</title></circle>
+<circle cx="410.8067541258366" cy="271.70327870551773" r="2.8" fill="rgb(168,124,71)" opacity="0.95"><title>2013-01 — 7,277 questions, 11,363 answers (ratio 1.56)</title></circle>
+<circle cx="462.33891007076835" cy="233.5298898114459" r="2.8" fill="rgb(165,126,71)" opacity="0.95"><title>2013-02 — 8,332 questions, 13,096 answers (ratio 1.57)</title></circle>
+<circle cx="533.2139416120915" cy="176.69933969794033" r="2.8" fill="rgb(163,127,72)" opacity="0.95"><title>2013-03 — 9,783 questions, 15,676 answers (ratio 1.60)</title></circle>
+<circle cx="556.8063883622357" cy="182.29428532926994" r="2.8" fill="rgb(160,129,72)" opacity="0.95"><title>2013-04 — 10,266 questions, 15,422 answers (ratio 1.50)</title></circle>
+<circle cx="558.9555967618347" cy="170.9061479615636" r="2.8" fill="rgb(158,130,72)" opacity="0.95"><title>2013-05 — 10,310 questions, 15,939 answers (ratio 1.55)</title></circle>
+<circle cx="464.83003798848546" cy="230.33592478568693" r="2.8" fill="rgb(155,132,73)" opacity="0.95"><title>2013-06 — 8,383 questions, 13,241 answers (ratio 1.58)</title></circle>
+<circle cx="438.84415461151514" cy="251.92272289081694" r="2.8" fill="rgb(153,134,73)" opacity="0.95"><title>2013-07 — 7,851 questions, 12,261 answers (ratio 1.56)</title></circle>
+<circle cx="450.5182638729736" cy="246.01939442941404" r="2.8" fill="rgb(151,135,73)" opacity="0.95"><title>2013-08 — 8,090 questions, 12,529 answers (ratio 1.55)</title></circle>
+<circle cx="542.2503860194967" cy="200.13643478351008" r="2.8" fill="rgb(148,137,74)" opacity="0.95"><title>2013-09 — 9,968 questions, 14,612 answers (ratio 1.47)</title></circle>
+<circle cx="658.8449416977451" cy="130.99259881207826" r="2.8" fill="rgb(146,138,74)" opacity="0.95"><title>2013-10 — 12,355 questions, 17,751 answers (ratio 1.44)</title></circle>
+<circle cx="688.4942484831229" cy="126.0805008759109" r="2.8" fill="rgb(143,140,74)" opacity="0.95"><title>2013-11 — 12,962 questions, 17,974 answers (ratio 1.39)</title></circle>
+<circle cx="630.8075412120666" cy="124.78088752060205" r="2.8" fill="rgb(141,141,75)" opacity="0.95"><title>2013-12 — 11,781 questions, 18,033 answers (ratio 1.53)</title></circle>
+<circle cx="609.3643028615215" cy="136.7197085134393" r="2.8" fill="rgb(139,143,75)" opacity="0.95"><title>2014-01 — 11,342 questions, 17,491 answers (ratio 1.54)</title></circle>
+<circle cx="626.5579700583139" cy="148.70258419628698" r="2.8" fill="rgb(136,144,76)" opacity="0.95"><title>2014-02 — 11,694 questions, 16,947 answers (ratio 1.45)</title></circle>
+<circle cx="695.1861019091472" cy="102.31299561526265" r="2.8" fill="rgb(134,146,76)" opacity="0.95"><title>2014-03 — 13,099 questions, 19,053 answers (ratio 1.45)</title></circle>
+<circle cx="738.8541089373642" cy="86.49736190150412" r="2.8" fill="rgb(131,147,76)" opacity="0.95"><title>2014-04 — 13,993 questions, 19,771 answers (ratio 1.41)</title></circle>
+<circle cx="690.8388394645036" cy="112.93017590778578" r="2.8" fill="rgb(129,149,77)" opacity="0.95"><title>2014-05 — 13,010 questions, 18,571 answers (ratio 1.43)</title></circle>
+<circle cx="591.9752530829473" cy="164.60632729006647" r="2.8" fill="rgb(126,151,77)" opacity="0.95"><title>2014-06 — 10,986 questions, 16,225 answers (ratio 1.48)</title></circle>
+<circle cx="532.139337412292" cy="191.5237428864633" r="2.8" fill="rgb(124,152,77)" opacity="0.95"><title>2014-07 — 9,761 questions, 15,003 answers (ratio 1.54)</title></circle>
+<circle cx="524.7636449500317" cy="194.6736532222119" r="2.8" fill="rgb(122,154,78)" opacity="0.95"><title>2014-08 — 9,610 questions, 14,860 answers (ratio 1.55)</title></circle>
+<circle cx="649.1246582541039" cy="133.08519658757558" r="2.8" fill="rgb(119,155,78)" opacity="0.95"><title>2014-09 — 12,156 questions, 17,656 answers (ratio 1.45)</title></circle>
+<circle cx="796.247742335748" cy="49.77777777777777" r="2.8" fill="rgb(117,157,79)" opacity="0.95"><title>2014-10 — 15,168 questions, 21,438 answers (ratio 1.41)</title></circle>
+<circle cx="776.3675646394568" cy="69.49225155746291" r="2.8" fill="rgb(114,158,79)" opacity="0.95"><title>2014-11 — 14,761 questions, 20,543 answers (ratio 1.39)</title></circle>
+<circle cx="696.3095517543921" cy="97.84144457919996" r="2.8" fill="rgb(112,160,79)" opacity="0.95"><title>2014-12 — 13,122 questions, 19,256 answers (ratio 1.47)</title></circle>
+<circle cx="707.9348153704052" cy="106.65238258129386" r="2.8" fill="rgb(110,161,80)" opacity="0.95"><title>2015-01 — 13,360 questions, 18,856 answers (ratio 1.41)</title></circle>
+<circle cx="706.909056816051" cy="115.28710182334589" r="2.8" fill="rgb(107,163,80)" opacity="0.95"><title>2015-02 — 13,339 questions, 18,464 answers (ratio 1.38)</title></circle>
+<circle cx="783.059418065481" cy="73.50122834841562" r="2.8" fill="rgb(105,164,80)" opacity="0.95"><title>2015-03 — 14,898 questions, 20,361 answers (ratio 1.37)</title></circle>
+<circle cx="773.0949063946127" cy="79.11820132475049" r="2.8" fill="rgb(102,166,81)" opacity="0.95"><title>2015-04 — 14,694 questions, 20,106 answers (ratio 1.37)</title></circle>
+<circle cx="782.2290420929087" cy="52.8836334235159" r="2.8" fill="rgb(100,168,81)" opacity="0.95"><title>2015-05 — 14,881 questions, 21,297 answers (ratio 1.43)</title></circle>
+<circle cx="664.1202714058518" cy="131.76355588726148" r="2.8" fill="rgb(97,169,81)" opacity="0.95"><title>2015-06 — 12,463 questions, 17,716 answers (ratio 1.42)</title></circle>
+<circle cx="610.9273635157754" cy="139.80353681417216" r="2.8" fill="rgb(95,171,82)" opacity="0.95"><title>2015-07 — 11,374 questions, 17,351 answers (ratio 1.53)</title></circle>
+<circle cx="602.2328386264883" cy="157.05094795327096" r="2.8" fill="rgb(93,172,82)" opacity="0.95"><title>2015-08 — 11,196 questions, 16,568 answers (ratio 1.48)</title></circle>
+<circle cx="723.5654219129437" cy="110.70541406225709" r="2.8" fill="rgb(90,174,83)" opacity="0.95"><title>2015-09 — 13,680 questions, 18,672 answers (ratio 1.36)</title></circle>
+<circle cx="843.4814814814815" cy="55.65907889417548" r="2.8" fill="rgb(88,175,83)" opacity="0.95"><title>2015-10 — 16,135 questions, 21,171 answers (ratio 1.31)</title></circle>
+<circle cx="824.5293710486536" cy="71.05619305283454" r="2.8" fill="rgb(85,177,83)" opacity="0.95"><title>2015-11 — 15,747 questions, 20,472 answers (ratio 1.30)</title></circle>
+<circle cx="731.5272621205493" cy="94.25098734334671" r="2.8" fill="rgb(83,178,84)" opacity="0.95"><title>2015-12 — 13,843 questions, 19,419 answers (ratio 1.40)</title></circle>
+<circle cx="701.5360358170534" cy="113.89937908801608" r="2.8" fill="rgb(81,180,84)" opacity="0.95"><title>2016-01 — 13,229 questions, 18,527 answers (ratio 1.40)</title></circle>
+<circle cx="735.5814506925202" cy="100.74905411989096" r="2.8" fill="rgb(78,181,84)" opacity="0.95"><title>2016-02 — 13,926 questions, 19,124 answers (ratio 1.37)</title></circle>
+<circle cx="788.0905195463606" cy="74.58056825367208" r="2.8" fill="rgb(76,183,85)" opacity="0.95"><title>2016-03 — 15,001 questions, 20,312 answers (ratio 1.35)</title></circle>
+<circle cx="782.1801964474632" cy="104.84614029086464" r="2.8" fill="rgb(73,185,85)" opacity="0.95"><title>2016-04 — 14,880 questions, 18,938 answers (ratio 1.27)</title></circle>
+<circle cx="753.8497220891121" cy="110.0886484021105" r="2.8" fill="rgb(71,186,86)" opacity="0.95"><title>2016-05 — 14,300 questions, 18,700 answers (ratio 1.31)</title></circle>
+<circle cx="657.8680287888365" cy="135.35401312311473" r="2.8" fill="rgb(68,188,86)" opacity="0.95"><title>2016-06 — 12,335 questions, 17,553 answers (ratio 1.42)</title></circle>
+<circle cx="566.6243630967676" cy="186.1710980501913" r="2.8" fill="rgb(66,189,86)" opacity="0.95"><title>2016-07 — 10,467 questions, 15,246 answers (ratio 1.46)</title></circle>
+<circle cx="572.7789144228923" cy="184.6071565548196" r="2.8" fill="rgb(64,191,87)" opacity="0.95"><title>2016-08 — 10,593 questions, 15,317 answers (ratio 1.45)</title></circle>
+<circle cx="686.4915770198601" cy="138.48189611385806" r="2.8" fill="rgb(61,192,87)" opacity="0.95"><title>2016-09 — 12,921 questions, 17,411 answers (ratio 1.35)</title></circle>
+<circle cx="796.9804270174294" cy="80.30767795503311" r="2.8" fill="rgb(59,194,87)" opacity="0.95"><title>2016-10 — 15,183 questions, 20,052 answers (ratio 1.32)</title></circle>
+<circle cx="782.5709616110266" cy="95.77087414870789" r="2.8" fill="rgb(56,195,88)" opacity="0.95"><title>2016-11 — 14,888 questions, 19,350 answers (ratio 1.30)</title></circle>
+<circle cx="705.1994592254609" cy="111.82880865752406" r="2.8" fill="rgb(54,197,88)" opacity="0.95"><title>2016-12 — 13,304 questions, 18,621 answers (ratio 1.40)</title></circle>
+<circle cx="768.0638049137331" cy="69.55833359247856" r="2.8" fill="rgb(52,199,89)" opacity="0.95"><title>2017-01 — 14,591 questions, 20,540 answers (ratio 1.41)</title></circle>
+<circle cx="762.7884752056264" cy="94.53734282841475" r="2.8" fill="rgb(51,198,90)" opacity="0.95"><title>2017-02 — 14,483 questions, 19,406 answers (ratio 1.34)</title></circle>
+<circle cx="829.6581638204241" cy="61.958899565672596" r="2.8" fill="rgb(51,197,92)" opacity="0.95"><title>2017-03 — 15,852 questions, 20,885 answers (ratio 1.32)</title></circle>
+<circle cx="828.6324052660699" cy="59.99846586020669" r="2.8" fill="rgb(50,197,93)" opacity="0.95"><title>2017-04 — 15,831 questions, 20,974 answers (ratio 1.32)</title></circle>
+<circle cx="819.9378803767829" cy="68.06047413212264" r="2.8" fill="rgb(50,196,95)" opacity="0.95"><title>2017-05 — 15,653 questions, 20,608 answers (ratio 1.32)</title></circle>
+<circle cx="678.6762737485908" cy="129.67095811176415" r="2.8" fill="rgb(50,195,96)" opacity="0.95"><title>2017-06 — 12,761 questions, 17,811 answers (ratio 1.40)</title></circle>
+<circle cx="601.3536170084705" cy="167.4258274507365" r="2.8" fill="rgb(49,195,98)" opacity="0.95"><title>2017-07 — 11,178 questions, 16,097 answers (ratio 1.44)</title></circle>
+<circle cx="604.9193491259871" cy="165.7076945403282" r="2.8" fill="rgb(49,194,99)" opacity="0.95"><title>2017-08 — 11,251 questions, 16,175 answers (ratio 1.44)</title></circle>
+<circle cx="691.1319133371762" cy="123.94384841040312" r="2.8" fill="rgb(48,194,101)" opacity="0.95"><title>2017-09 — 13,016 questions, 18,071 answers (ratio 1.39)</title></circle>
+<circle cx="826.1901229937984" cy="75.94626364399664" r="2.8" fill="rgb(48,193,102)" opacity="0.95"><title>2017-10 — 15,781 questions, 20,250 answers (ratio 1.28)</title></circle>
+<circle cx="822.6732365217272" cy="73.87569321350458" r="2.8" fill="rgb(48,192,104)" opacity="0.95"><title>2017-11 — 15,709 questions, 20,344 answers (ratio 1.30)</title></circle>
+<circle cx="720.3904549589905" cy="99.42741341957691" r="2.8" fill="rgb(47,192,105)" opacity="0.95"><title>2017-12 — 13,615 questions, 19,184 answers (ratio 1.41)</title></circle>
+<circle cx="749.4536139990231" cy="79.69091229488657" r="2.8" fill="rgb(47,191,107)" opacity="0.95"><title>2018-01 — 14,210 questions, 20,080 answers (ratio 1.41)</title></circle>
+<circle cx="702.9037138895255" cy="118.83350436918869" r="2.8" fill="rgb(46,190,108)" opacity="0.95"><title>2018-02 — 13,257 questions, 18,303 answers (ratio 1.38)</title></circle>
+<circle cx="754.3870241890119" cy="81.98175617543097" r="2.8" fill="rgb(46,190,110)" opacity="0.95"><title>2018-03 — 14,311 questions, 19,976 answers (ratio 1.40)</title></circle>
+<circle cx="780.4217532114276" cy="87.90711198183914" r="2.8" fill="rgb(46,189,112)" opacity="0.95"><title>2018-04 — 14,844 questions, 19,707 answers (ratio 1.33)</title></circle>
+<circle cx="759.2715887335552" cy="97.73130785417379" r="2.8" fill="rgb(45,189,113)" opacity="0.95"><title>2018-05 — 14,411 questions, 19,261 answers (ratio 1.34)</title></circle>
+<circle cx="607.947779143604" cy="190.86292253630626" r="2.8" fill="rgb(45,188,115)" opacity="0.95"><title>2018-06 — 11,313 questions, 15,033 answers (ratio 1.33)</title></circle>
+<circle cx="545.327661682559" cy="213.46297851167708" r="2.8" fill="rgb(45,187,116)" opacity="0.95"><title>2018-07 — 10,031 questions, 14,007 answers (ratio 1.40)</title></circle>
+<circle cx="577.2238681584266" cy="191.81009837153135" r="2.8" fill="rgb(44,187,118)" opacity="0.95"><title>2018-08 — 10,684 questions, 14,990 answers (ratio 1.40)</title></circle>
+<circle cx="637.1574751199728" cy="168.6153040810192" r="2.8" fill="rgb(44,186,119)" opacity="0.95"><title>2018-09 — 11,911 questions, 16,043 answers (ratio 1.35)</title></circle>
+<circle cx="754.4358698344573" cy="117.20348083880134" r="2.8" fill="rgb(43,185,121)" opacity="0.95"><title>2018-10 — 14,312 questions, 18,377 answers (ratio 1.28)</title></circle>
+<circle cx="732.7972489021305" cy="134.31872790786872" r="2.8" fill="rgb(43,185,122)" opacity="0.95"><title>2018-11 — 13,869 questions, 17,600 answers (ratio 1.27)</title></circle>
+<circle cx="629.1956349123673" cy="178.7699101284324" r="2.8" fill="rgb(43,184,124)" opacity="0.95"><title>2018-12 — 11,748 questions, 15,582 answers (ratio 1.33)</title></circle>
+<circle cx="671.2028899954396" cy="161.7647997843912" r="2.8" fill="rgb(42,184,125)" opacity="0.95"><title>2019-01 — 12,608 questions, 16,354 answers (ratio 1.30)</title></circle>
+<circle cx="637.743622865318" cy="181.47927356407627" r="2.8" fill="rgb(42,183,127)" opacity="0.95"><title>2019-02 — 11,923 questions, 15,459 answers (ratio 1.30)</title></circle>
+<circle cx="703.3921703439798" cy="162.75603030962674" r="2.8" fill="rgb(41,182,128)" opacity="0.95"><title>2019-03 — 13,267 questions, 16,309 answers (ratio 1.23)</title></circle>
+<circle cx="689.7153896192586" cy="175.64202713768907" r="2.8" fill="rgb(41,182,130)" opacity="0.95"><title>2019-04 — 12,987 questions, 15,724 answers (ratio 1.21)</title></circle>
+<circle cx="695.1861019091472" cy="154.9803775227789" r="2.8" fill="rgb(41,181,132)" opacity="0.95"><title>2019-05 — 13,099 questions, 16,662 answers (ratio 1.27)</title></circle>
+<circle cx="596.0294416549183" cy="203.506618569311" r="2.8" fill="rgb(40,181,133)" opacity="0.95"><title>2019-06 — 11,069 questions, 14,459 answers (ratio 1.31)</title></circle>
+<circle cx="558.6136772437167" cy="213.74933399674512" r="2.8" fill="rgb(40,180,135)" opacity="0.95"><title>2019-07 — 10,303 questions, 13,994 answers (ratio 1.36)</title></circle>
+<circle cx="555.7806298078815" cy="209.1015642006406" r="2.8" fill="rgb(39,179,136)" opacity="0.95"><title>2019-08 — 10,245 questions, 14,205 answers (ratio 1.39)</title></circle>
+<circle cx="621.0872577684254" cy="181.3911641840553" r="2.8" fill="rgb(39,179,138)" opacity="0.95"><title>2019-09 — 11,582 questions, 15,463 answers (ratio 1.34)</title></circle>
+<circle cx="737.926041673901" cy="140.26611105928208" r="2.8" fill="rgb(39,178,139)" opacity="0.95"><title>2019-10 — 13,974 questions, 17,330 answers (ratio 1.24)</title></circle>
+<circle cx="736.5583636014288" cy="153.83495558250667" r="2.8" fill="rgb(38,177,141)" opacity="0.95"><title>2019-11 — 13,946 questions, 16,714 answers (ratio 1.20)</title></circle>
+<circle cx="667.9302317505956" cy="180.53209772885117" r="2.8" fill="rgb(38,177,142)" opacity="0.95"><title>2019-12 — 12,541 questions, 15,502 answers (ratio 1.24)</title></circle>
+<circle cx="671.8378833862303" cy="175.37769899762623" r="2.8" fill="rgb(38,176,144)" opacity="0.95"><title>2020-01 — 12,621 questions, 15,736 answers (ratio 1.25)</title></circle>
+<circle cx="641.3093549828346" cy="198.26411045806515" r="2.8" fill="rgb(37,176,145)" opacity="0.95"><title>2020-02 — 11,996 questions, 14,697 answers (ratio 1.23)</title></circle>
+<circle cx="699.0937535447817" cy="166.83108913559516" r="2.8" fill="rgb(37,175,147)" opacity="0.95"><title>2020-03 — 13,179 questions, 16,124 answers (ratio 1.22)</title></circle>
+<circle cx="828.3393313933974" cy="104.91222232588035" r="2.8" fill="rgb(36,174,148)" opacity="0.95"><title>2020-04 — 15,825 questions, 18,935 answers (ratio 1.20)</title></circle>
+<circle cx="824.236297175981" cy="116.12414093354482" r="2.8" fill="rgb(36,174,150)" opacity="0.95"><title>2020-05 — 15,741 questions, 18,426 answers (ratio 1.17)</title></circle>
+<circle cx="722.9792741675985" cy="164.78254605010835" r="2.8" fill="rgb(36,173,152)" opacity="0.95"><title>2020-06 — 13,668 questions, 16,217 answers (ratio 1.19)</title></circle>
+<circle cx="635.2524949476009" cy="186.10501601517558" r="2.8" fill="rgb(35,172,153)" opacity="0.95"><title>2020-07 — 11,872 questions, 15,249 answers (ratio 1.28)</title></circle>
+<circle cx="615.2257803149735" cy="206.76666563008575" r="2.8" fill="rgb(35,172,155)" opacity="0.95"><title>2020-08 — 11,462 questions, 14,311 answers (ratio 1.25)</title></circle>
+<circle cx="651.3715579445939" cy="189.36506307595027" r="2.8" fill="rgb(34,171,156)" opacity="0.95"><title>2020-09 — 12,202 questions, 15,101 answers (ratio 1.24)</title></circle>
+<circle cx="729.0849798482776" cy="166.19229613044337" r="2.8" fill="rgb(34,171,158)" opacity="0.95"><title>2020-10 — 13,793 questions, 16,153 answers (ratio 1.17)</title></circle>
+<circle cx="709.8886411882224" cy="187.22841061044255" r="2.8" fill="rgb(34,170,159)" opacity="0.95"><title>2020-11 — 13,400 questions, 15,198 answers (ratio 1.13)</title></circle>
+<circle cx="687.712718155996" cy="179.95938675871508" r="2.8" fill="rgb(33,169,161)" opacity="0.95"><title>2020-12 — 12,946 questions, 15,528 answers (ratio 1.20)</title></circle>
+<circle cx="698.898370963" cy="173.92389422728075" r="2.8" fill="rgb(33,169,162)" opacity="0.95"><title>2021-01 — 13,175 questions, 15,802 answers (ratio 1.20)</title></circle>
+<circle cx="641.016281110162" cy="207.55965005027417" r="2.8" fill="rgb(32,168,164)" opacity="0.95"><title>2021-02 — 11,990 questions, 14,275 answers (ratio 1.19)</title></circle>
+<circle cx="707.4952045613962" cy="181.3691368390501" r="2.8" fill="rgb(32,167,165)" opacity="0.95"><title>2021-03 — 13,351 questions, 15,464 answers (ratio 1.16)</title></circle>
+<circle cx="664.8529560875334" cy="211.9430917063159" r="2.8" fill="rgb(32,167,167)" opacity="0.95"><title>2021-04 — 12,478 questions, 14,076 answers (ratio 1.13)</title></circle>
+<circle cx="613.027726269929" cy="256.87887551699475" r="2.8" fill="rgb(31,166,168)" opacity="0.95"><title>2021-05 — 11,417 questions, 12,036 answers (ratio 1.05)</title></circle>
+<circle cx="512.5522335886734" cy="308.07042530916027" r="2.8" fill="rgb(31,166,170)" opacity="0.95"><title>2021-06 — 9,360 questions, 9,712 answers (ratio 1.04)</title></circle>
+<circle cx="446.46407530100265" cy="328.42369209399715" r="2.8" fill="rgb(31,165,172)" opacity="0.95"><title>2021-07 — 8,007 questions, 8,788 answers (ratio 1.10)</title></circle>
+<circle cx="448.9063575732743" cy="322.9829378777042" r="2.8" fill="rgb(30,164,173)" opacity="0.95"><title>2021-08 — 8,057 questions, 9,035 answers (ratio 1.12)</title></circle>
+<circle cx="474.6480127230175" cy="311.1762809548984" r="2.8" fill="rgb(30,164,175)" opacity="0.95"><title>2021-09 — 8,584 questions, 9,571 answers (ratio 1.11)</title></circle>
+<circle cx="525.8870947952767" cy="310.20707777466805" r="2.8" fill="rgb(29,163,176)" opacity="0.95"><title>2021-10 — 9,633 questions, 9,615 answers (ratio 1.00)</title></circle>
+<circle cx="519.1952413692522" cy="316.3086523411181" r="2.8" fill="rgb(29,163,178)" opacity="0.95"><title>2021-11 — 9,496 questions, 9,338 answers (ratio 0.98)</title></circle>
+<circle cx="463.4623599160133" cy="338.7104622114418" r="2.8" fill="rgb(29,162,179)" opacity="0.95"><title>2021-12 — 8,355 questions, 8,321 answers (ratio 1.00)</title></circle>
+<circle cx="483.8798397122043" cy="322.63050035762046" r="2.8" fill="rgb(28,161,181)" opacity="0.95"><title>2022-01 — 8,773 questions, 9,051 answers (ratio 1.03)</title></circle>
+<circle cx="432.05460989459993" cy="348.7549315338288" r="2.8" fill="rgb(28,161,182)" opacity="0.95"><title>2022-02 — 7,712 questions, 7,865 answers (ratio 1.02)</title></circle>
+<circle cx="455.8912848719712" cy="348.88709560386025" r="2.8" fill="rgb(27,160,184)" opacity="0.95"><title>2022-03 — 8,200 questions, 7,859 answers (ratio 0.96)</title></circle>
+<circle cx="441.72604769279565" cy="350.3409003742057" r="2.8" fill="rgb(27,159,185)" opacity="0.95"><title>2022-04 — 7,910 questions, 7,793 answers (ratio 0.99)</title></circle>
+<circle cx="450.8113377456462" cy="351.00172072436277" r="2.8" fill="rgb(27,159,187)" opacity="0.95"><title>2022-05 — 8,096 questions, 7,763 answers (ratio 0.96)</title></circle>
+<circle cx="416.4240033520614" cy="355.16488893035216" r="2.8" fill="rgb(26,158,188)" opacity="0.95"><title>2022-06 — 7,392 questions, 7,574 answers (ratio 1.02)</title></circle>
+<circle cx="393.22232176548073" cy="356.6627483907081" r="2.8" fill="rgb(26,158,190)" opacity="0.95"><title>2022-07 — 6,917 questions, 7,506 answers (ratio 1.09)</title></circle>
+<circle cx="376.17519150502466" cy="364.9230027676711" r="2.8" fill="rgb(25,157,191)" opacity="0.95"><title>2022-08 — 6,568 questions, 7,131 answers (ratio 1.09)</title></circle>
+<circle cx="388.63083109361" cy="364.2181277275036" r="2.8" fill="rgb(25,156,193)" opacity="0.95"><title>2022-09 — 6,823 questions, 7,163 answers (ratio 1.05)</title></circle>
+<circle cx="455.94013051741666" cy="341.08941547200715" r="2.8" fill="rgb(25,156,195)" opacity="0.95"><title>2022-10 — 8,201 questions, 8,213 answers (ratio 1.00)</title></circle>
+<circle cx="427.75619309540184" cy="359.8126587264567" r="2.8" fill="rgb(24,155,196)" opacity="0.95"><title>2022-11 — 7,624 questions, 7,363 answers (ratio 0.97)</title></circle>
+<circle cx="385.40701849421146" cy="370.31970229395364" r="2.8" fill="rgb(24,154,198)" opacity="0.95"><title>2022-12 — 6,757 questions, 6,886 answers (ratio 1.02)</title></circle>
+<circle cx="404.5545115088212" cy="355.3851623804045" r="2.8" fill="rgb(24,154,199)" opacity="0.95"><title>2023-01 — 7,149 questions, 7,564 answers (ratio 1.06)</title></circle>
+<circle cx="366.35721677049264" cy="375.51815571518904" r="2.8" fill="rgb(23,153,201)" opacity="0.95"><title>2023-02 — 6,367 questions, 6,650 answers (ratio 1.04)</title></circle>
+<circle cx="411.93020397108154" cy="359.98887748649855" r="2.8" fill="rgb(23,153,202)" opacity="0.95"><title>2023-03 — 7,300 questions, 7,355 answers (ratio 1.01)</title></circle>
+<circle cx="383.01358186738526" cy="373.93218687481215" r="2.8" fill="rgb(22,152,204)" opacity="0.95"><title>2023-04 — 6,708 questions, 6,722 answers (ratio 1.00)</title></circle>
+<circle cx="403.6752898908034" cy="358.46899068113737" r="2.8" fill="rgb(22,151,205)" opacity="0.95"><title>2023-05 — 7,131 questions, 7,424 answers (ratio 1.04)</title></circle>
+<circle cx="358.1511483356599" cy="373.8000228047807" r="2.8" fill="rgb(22,151,207)" opacity="0.95"><title>2023-06 — 6,199 questions, 6,728 answers (ratio 1.09)</title></circle>
+<circle cx="349.01701263736396" cy="383.9326015071887" r="2.8" fill="rgb(21,150,208)" opacity="0.95"><title>2023-07 — 6,012 questions, 6,268 answers (ratio 1.04)</title></circle>
+<circle cx="326.1572505689013" cy="392.501238714225" r="2.8" fill="rgb(21,149,210)" opacity="0.95"><title>2023-08 — 5,544 questions, 5,879 answers (ratio 1.06)</title></circle>
+<circle cx="337.8313598303598" cy="394.13126224461234" r="2.8" fill="rgb(20,149,211)" opacity="0.95"><title>2023-09 — 5,783 questions, 5,805 answers (ratio 1.00)</title></circle>
+<circle cx="386.2373944667838" cy="376.15694872034084" r="2.8" fill="rgb(20,148,213)" opacity="0.95"><title>2023-10 — 6,774 questions, 6,621 answers (ratio 0.98)</title></circle>
+<circle cx="389.3146701298461" cy="373.0951477646132" r="2.8" fill="rgb(20,148,215)" opacity="0.95"><title>2023-11 — 6,837 questions, 6,760 answers (ratio 0.99)</title></circle>
+<circle cx="344.0836024473752" cy="380.8928278964663" r="2.8" fill="rgb(19,147,216)" opacity="0.95"><title>2023-12 — 5,911 questions, 6,406 answers (ratio 1.08)</title></circle>
+<circle cx="346.67242165598316" cy="378.2275191508329" r="2.8" fill="rgb(19,146,218)" opacity="0.95"><title>2024-01 — 5,964 questions, 6,527 answers (ratio 1.09)</title></circle>
+<circle cx="339.05250096649564" cy="380.584445066393" r="2.8" fill="rgb(18,146,219)" opacity="0.95"><title>2024-02 — 5,808 questions, 6,420 answers (ratio 1.11)</title></circle>
+<circle cx="337.48944031224175" cy="388.33807050823566" r="2.8" fill="rgb(18,145,221)" opacity="0.95"><title>2024-03 — 5,776 questions, 6,068 answers (ratio 1.05)</title></circle>
+<circle cx="332.3118018950259" cy="386.7521016678587" r="2.8" fill="rgb(18,145,222)" opacity="0.95"><title>2024-04 — 5,670 questions, 6,140 answers (ratio 1.08)</title></circle>
+<circle cx="332.3118018950259" cy="387.8314415731152" r="2.8" fill="rgb(17,144,224)" opacity="0.95"><title>2024-05 — 5,670 questions, 6,091 answers (ratio 1.07)</title></circle>
+<circle cx="288.8391774485906" cy="404.792497227146" r="2.8" fill="rgb(17,143,225)" opacity="0.95"><title>2024-06 — 4,780 questions, 5,321 answers (ratio 1.11)</title></circle>
+<circle cx="262.5602201989476" cy="417.19389246509314" r="2.8" fill="rgb(17,143,227)" opacity="0.95"><title>2024-07 — 4,242 questions, 4,758 answers (ratio 1.12)</title></circle>
+<circle cx="254.40299740956033" cy="419.903255900737" r="2.8" fill="rgb(16,142,228)" opacity="0.95"><title>2024-08 — 4,075 questions, 4,635 answers (ratio 1.14)</title></circle>
+<circle cx="254.98914515490554" cy="417.43619326015073" r="2.8" fill="rgb(16,141,230)" opacity="0.95"><title>2024-09 — 4,087 questions, 4,747 answers (ratio 1.16)</title></circle>
+<circle cx="275.50431624198734" cy="409.08782950316674" r="2.8" fill="rgb(15,141,231)" opacity="0.95"><title>2024-10 — 4,507 questions, 5,126 answers (ratio 1.14)</title></circle>
+<circle cx="252.49801723718846" cy="416.9075369800251" r="2.8" fill="rgb(15,140,233)" opacity="0.95"><title>2024-11 — 4,036 questions, 4,771 answers (ratio 1.18)</title></circle>
+<circle cx="238.08855183078575" cy="423.9122326916897" r="2.8" fill="rgb(15,140,235)" opacity="0.95"><title>2024-12 — 3,741 questions, 4,453 answers (ratio 1.19)</title></circle>
+<circle cx="237.40471279454968" cy="426.5334867473127" r="2.8" fill="rgb(14,139,236)" opacity="0.95"><title>2025-01 — 3,727 questions, 4,334 answers (ratio 1.16)</title></circle>
+<circle cx="202.91968711007402" cy="437.7013506649667" r="2.8" fill="rgb(14,138,238)" opacity="0.95"><title>2025-02 — 3,021 questions, 3,827 answers (ratio 1.27)</title></circle>
+<circle cx="213.32380958995125" cy="432.54695193374175" r="2.8" fill="rgb(13,138,239)" opacity="0.95"><title>2025-03 — 3,234 questions, 4,061 answers (ratio 1.26)</title></circle>
+<circle cx="184.11411361358233" cy="449.02340599765733" r="2.8" fill="rgb(13,137,241)" opacity="0.95"><title>2025-04 — 2,636 questions, 3,313 answers (ratio 1.26)</title></circle>
+<circle cx="179.47377729626623" cy="452.01912491836924" r="2.8" fill="rgb(13,136,242)" opacity="0.95"><title>2025-05 — 2,541 questions, 3,177 answers (ratio 1.25)</title></circle>
+<circle cx="167.06698335312626" cy="455.7637735692592" r="2.8" fill="rgb(12,136,244)" opacity="0.95"><title>2025-06 — 2,287 questions, 3,007 answers (ratio 1.31)</title></circle>
+<circle cx="157.786310718494" cy="455.3452540141597" r="2.8" fill="rgb(12,135,245)" opacity="0.95"><title>2025-07 — 2,097 questions, 3,026 answers (ratio 1.44)</title></circle>
+<circle cx="149.14063147465237" cy="459.33220346010717" r="2.8" fill="rgb(11,135,247)" opacity="0.95"><title>2025-08 — 1,920 questions, 2,845 answers (ratio 1.48)</title></circle>
+<circle cx="140.25072400358357" cy="466.7113640368608" r="2.8" fill="rgb(11,134,248)" opacity="0.95"><title>2025-09 — 1,738 questions, 2,510 answers (ratio 1.44)</title></circle>
+<circle cx="150.0686987381156" cy="464.2222740512693" r="2.8" fill="rgb(11,133,250)" opacity="0.95"><title>2025-10 — 1,939 questions, 2,623 answers (ratio 1.35)</title></circle>
+<circle cx="140.49495223081072" cy="469.354645437489" r="2.8" fill="rgb(10,133,251)" opacity="0.95"><title>2025-11 — 1,743 questions, 2,390 answers (ratio 1.37)</title></circle>
+<circle cx="128.2835408694525" cy="472.7688839133004" r="2.8" fill="rgb(10,132,253)" opacity="0.95"><title>2025-12 — 1,493 questions, 2,235 answers (ratio 1.50)</title></circle>
+<circle cx="127.45316489688014" cy="472.94510267334226" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-01 — 1,476 questions, 2,227 answers (ratio 1.51)</title></circle>
+<circle cx="119.54017033472" cy="474.09052461361443" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-02 — 1,314 questions, 2,175 answers (ratio 1.66)</title></circle>
+<circle cx="117.73288145323897" cy="476.4033958391641" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-03 — 1,277 questions, 2,070 answers (ratio 1.62)</title></circle>
+<circle cx="115.48598176274906" cy="476.5355599091955" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-04 — 1,231 questions, 2,064 answers (ratio 1.68)</title></circle>
+<circle cx="109.72219560018797" cy="477.6589545044625" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-05 — 1,113 questions, 2,013 answers (ratio 1.81)</title></circle>
+<circle cx="103.03034217416366" cy="483.98080252096486" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-06 — 976 questions, 1,726 answers (ratio 1.77)</title></circle>
+<circle cx="100.68575119278289" cy="484.55351349110094" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-07 — 928 questions, 1,700 answers (ratio 1.83)</title></circle>
+<circle cx="87.30204434073426" cy="492.3732209679593" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-08 — 654 questions, 1,345 answers (ratio 2.06)</title></circle>
+<circle cx="87.15550740439797" cy="496.6465258989748" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-09 — 651 questions, 1,151 answers (ratio 1.77)</title></circle>
+<circle cx="87.98588337697032" cy="492.8357952130692" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-10 — 668 questions, 1,324 answers (ratio 1.98)</title></circle>
+<circle cx="62.0" cy="516.0526168485866" r="2.8" fill="rgb(10,132,255)" opacity="0.95"><title>2026-11 — 136 questions, 270 answers (ratio 1.99)</title></circle>
+<text x="898" y="25" text-anchor="end" font-size="11.5" fill="#c00000" font-weight="600">r = +0.976 · s = 1412</text>
+</svg><svg x="0" y="560" width="920" height="240" viewBox="0 0 920 240" xmlns="http://www.w3.org/2000/svg">
+<line x1="62.0" y1="210" x2="62.0" y2="214" stroke="#1a1a1a"/>
+<text x="62.0" y="224" text-anchor="middle" font-size="10" fill="#707070">0k</text>
+<line x1="257.3703703703704" y1="210" x2="257.3703703703704" y2="214" stroke="#1a1a1a"/>
+<text x="257.3703703703704" y="224" text-anchor="middle" font-size="10" fill="#707070">4k</text>
+<line x1="452.74074074074076" y1="210" x2="452.74074074074076" y2="214" stroke="#1a1a1a"/>
+<text x="452.74074074074076" y="224" text-anchor="middle" font-size="10" fill="#707070">8k</text>
+<line x1="648.1111111111112" y1="210" x2="648.1111111111112" y2="214" stroke="#1a1a1a"/>
+<text x="648.1111111111112" y="224" text-anchor="middle" font-size="10" fill="#707070">12k</text>
+<line x1="843.4814814814815" y1="210" x2="843.4814814814815" y2="214" stroke="#1a1a1a"/>
+<text x="843.4814814814815" y="224" text-anchor="middle" font-size="10" fill="#707070">16k</text>
+<line x1="62" y1="210.0" x2="906" y2="210.0" stroke="#e0e0e0"/>
+<text x="54" y="213.5" text-anchor="end" font-size="10" fill="#707070">-3.6k</text>
+<line x1="62" y1="160.0" x2="906" y2="160.0" stroke="#e0e0e0"/>
+<text x="54" y="163.5" text-anchor="end" font-size="10" fill="#707070">-1.8k</text>
+<line x1="62" y1="110.0" x2="906" y2="110.0" stroke="#e0e0e0"/>
+<text x="54" y="113.5" text-anchor="end" font-size="10" fill="#707070">+0.0k</text>
+<line x1="62" y1="60.00000000000003" x2="906" y2="60.00000000000003" stroke="#e0e0e0"/>
+<text x="54" y="63.50000000000003" text-anchor="end" font-size="10" fill="#707070">+1.8k</text>
+<line x1="62" y1="10.0" x2="906" y2="10.0" stroke="#e0e0e0"/>
+<text x="54" y="13.5" text-anchor="end" font-size="10" fill="#707070">+3.6k</text>
+<line x1="62" y1="210" x2="906" y2="210" stroke="#1a1a1a" stroke-width="1.1"/>
+<line x1="62" y1="10" x2="62" y2="210" stroke="#1a1a1a" stroke-width="1.1"/>
+<line x1="62" y1="110.0" x2="906" y2="110.0" stroke="#c00000" stroke-width="1.6"/>
+<text x="484.0" y="234" text-anchor="middle" font-size="11" fill="#1a1a1a">Questions posted that month</text>
+<text x="14" y="110.0" text-anchor="middle" font-size="11" fill="#1a1a1a" transform="rotate(-90 14 110.0)">Residual</text>
+<circle cx="70.4502966620599" cy="97.53939236507352" r="2.6" fill="rgb(240,78,60)" opacity="0.95"><title>2010-07 — x 309, resid +450</title></circle>
+<circle cx="83.44323835054506" cy="88.53852342562986" r="2.6" fill="rgb(238,79,60)" opacity="0.95"><title>2010-08 — x 575, resid +775</title></circle>
+<circle cx="82.9059362506453" cy="95.8901773050822" r="2.6" fill="rgb(235,81,60)" opacity="0.95"><title>2010-09 — x 564, resid +510</title></circle>
+<circle cx="96.28964310269393" cy="96.62182409037851" r="2.6" fill="rgb(233,82,61)" opacity="0.95"><title>2010-10 — x 838, resid +483</title></circle>
+<circle cx="113.72753852671349" cy="86.42221901002756" r="2.6" fill="rgb(230,84,61)" opacity="0.95"><title>2010-11 — x 1,195, resid +852</title></circle>
+<circle cx="107.8172154278161" cy="93.58846768990328" r="2.6" fill="rgb(228,86,62)" opacity="0.95"><title>2010-12 — x 1,074, resid +593</title></circle>
+<circle cx="112.40870609968678" cy="92.22212384577858" r="2.6" fill="rgb(226,87,62)" opacity="0.95"><title>2011-01 — x 1,168, resid +642</title></circle>
+<circle cx="127.59970183321643" cy="92.88927886123021" r="2.6" fill="rgb(223,89,62)" opacity="0.95"><title>2011-02 — x 1,479, resid +618</title></circle>
+<circle cx="147.52872517495308" cy="85.84835253569416" r="2.6" fill="rgb(221,90,63)" opacity="0.95"><title>2011-03 — x 1,887, resid +872</title></circle>
+<circle cx="151.97367891048748" cy="94.0354011483556" r="2.6" fill="rgb(218,92,63)" opacity="0.95"><title>2011-04 — x 1,978, resid +577</title></circle>
+<circle cx="155.88133054612211" cy="86.40035190378202" r="2.6" fill="rgb(216,93,63)" opacity="0.95"><title>2011-05 — x 2,058, resid +852</title></circle>
+<circle cx="149.67793357455213" cy="79.06175514079226" r="2.6" fill="rgb(213,95,64)" opacity="0.95"><title>2011-06 — x 1,931, resid +1,117</title></circle>
+<circle cx="145.47720806624488" cy="83.40506462154259" r="2.6" fill="rgb(211,96,64)" opacity="0.95"><title>2011-07 — x 1,845, resid +961</title></circle>
+<circle cx="156.41863264602188" cy="88.48985613927637" r="2.6" fill="rgb(209,98,65)" opacity="0.95"><title>2011-08 — x 2,069, resid +777</title></circle>
+<circle cx="187.5821544402081" cy="88.24732029602472" r="2.6" fill="rgb(206,99,65)" opacity="0.95"><title>2011-09 — x 2,707, resid +786</title></circle>
+<circle cx="204.77582163700046" cy="87.88819511896853" r="2.6" fill="rgb(204,101,65)" opacity="0.95"><title>2011-10 — x 3,059, resid +799</title></circle>
+<circle cx="219.7714347887484" cy="91.59363960875771" r="2.6" fill="rgb(201,103,66)" opacity="0.95"><title>2011-11 — x 3,366, resid +665</title></circle>
+<circle cx="194.17631657534153" cy="88.15269075657865" r="2.6" fill="rgb(199,104,66)" opacity="0.95"><title>2011-12 — x 2,842, resid +789</title></circle>
+<circle cx="205.31312373690022" cy="91.36203338891254" r="2.6" fill="rgb(197,106,66)" opacity="0.95"><title>2012-01 — x 3,070, resid +673</title></circle>
+<circle cx="238.13739747623117" cy="87.48491158601952" r="2.6" fill="rgb(194,107,67)" opacity="0.95"><title>2012-02 — x 3,742, resid +813</title></circle>
+<circle cx="251.8141782009524" cy="84.50356792082376" r="2.6" fill="rgb(192,109,67)" opacity="0.95"><title>2012-03 — x 4,022, resid +921</title></circle>
+<circle cx="265.7351871529008" cy="86.27262507543269" r="2.6" fill="rgb(189,110,67)" opacity="0.95"><title>2012-04 — x 4,307, resid +857</title></circle>
+<circle cx="282.44039789523885" cy="84.96788259166604" r="2.6" fill="rgb(187,112,68)" opacity="0.95"><title>2012-05 — x 4,649, resid +904</title></circle>
+<circle cx="267.9820868433907" cy="70.78218930456825" r="2.6" fill="rgb(184,113,68)" opacity="0.95"><title>2012-06 — x 4,353, resid +1,416</title></circle>
+<circle cx="251.56994997372522" cy="67.43259419441702" r="2.6" fill="rgb(182,115,69)" opacity="0.95"><title>2012-07 — x 4,017, resid +1,537</title></circle>
+<circle cx="248.93228511967186" cy="64.96757007591049" r="2.6" fill="rgb(180,116,69)" opacity="0.95"><title>2012-08 — x 3,963, resid +1,627</title></circle>
+<circle cx="295.2379570019423" cy="62.55941479729793" r="2.6" fill="rgb(177,118,69)" opacity="0.95"><title>2012-09 — x 4,911, resid +1,713</title></circle>
+<circle cx="385.4558641396569" cy="74.28712149620253" r="2.6" fill="rgb(175,120,70)" opacity="0.95"><title>2012-10 — x 6,758, resid +1,290</title></circle>
+<circle cx="412.85827123454476" cy="74.3411768958577" r="2.6" fill="rgb(172,121,70)" opacity="0.95"><title>2012-11 — x 7,319, resid +1,288</title></circle>
+<circle cx="390.3404286842002" cy="65.08247177892568" r="2.6" fill="rgb(170,123,70)" opacity="0.95"><title>2012-12 — x 6,858, resid +1,622</title></circle>
+<circle cx="410.8067541258366" cy="60.07567632750599" r="2.6" fill="rgb(168,124,71)" opacity="0.95"><title>2013-01 — x 7,277, resid +1,803</title></circle>
+<circle cx="462.33891007076835" cy="50.517443484970386" r="2.6" fill="rgb(165,126,71)" opacity="0.95"><title>2013-02 — x 8,332, resid +2,148</title></circle>
+<circle cx="533.2139416120915" cy="31.930793783625063" r="2.6" fill="rgb(163,127,72)" opacity="0.95"><title>2013-03 — x 9,783, resid +2,820</title></circle>
+<circle cx="556.8063883622357" cy="56.553926369899074" r="2.6" fill="rgb(160,129,72)" opacity="0.95"><title>2013-04 — x 10,266, resid +1,930</title></circle>
+<circle cx="558.9555967618347" cy="43.84237930755265" r="2.6" fill="rgb(158,130,72)" opacity="0.95"><title>2013-05 — x 10,310, resid +2,390</title></circle>
+<circle cx="464.83003798848546" cy="48.36027954749855" r="2.6" fill="rgb(155,132,73)" opacity="0.95"><title>2013-06 — x 8,383, resid +2,226</title></circle>
+<circle cx="438.84415461151514" cy="56.117945571458364" r="2.6" fill="rgb(153,134,73)" opacity="0.95"><title>2013-07 — x 7,851, resid +1,946</title></circle>
+<circle cx="450.5182638729736" cy="57.402223739382634" r="2.6" fill="rgb(151,135,73)" opacity="0.95"><title>2013-08 — x 8,090, resid +1,900</title></circle>
+<circle cx="542.2503860194967" cy="68.1270667631837" r="2.6" fill="rgb(148,137,74)" opacity="0.95"><title>2013-09 — x 9,968, resid +1,512</title></circle>
+<circle cx="658.8449416977451" cy="68.15240290250574" r="2.6" fill="rgb(146,138,74)" opacity="0.95"><title>2013-10 — x 12,355, resid +1,511</title></circle>
+<circle cx="688.4942484831229" cy="84.0850317519258" r="2.6" fill="rgb(143,140,74)" opacity="0.95"><title>2013-11 — x 12,962, resid +936</title></circle>
+<circle cx="630.8075412120666" cy="39.43985044554134" r="2.6" fill="rgb(141,141,75)" opacity="0.95"><title>2013-12 — x 11,781, resid +2,549</title></circle>
+<circle cx="609.3643028615215" cy="38.45778254156903" r="2.6" fill="rgb(139,143,75)" opacity="0.95"><title>2014-01 — x 11,342, resid +2,584</title></circle>
+<circle cx="626.5579700583139" cy="66.33907166728605" r="2.6" fill="rgb(136,144,76)" opacity="0.95"><title>2014-02 — x 11,694, resid +1,577</title></circle>
+<circle cx="695.1861019091472" cy="59.20060235621216" r="2.6" fill="rgb(134,146,76)" opacity="0.95"><title>2014-03 — x 13,099, resid +1,835</title></circle>
+<circle cx="738.8541089373642" cy="71.88077851591481" r="2.6" fill="rgb(131,147,76)" opacity="0.95"><title>2014-04 — x 13,993, resid +1,377</title></circle>
+<circle cx="690.8388394645036" cy="69.30422903935673" r="2.6" fill="rgb(129,149,77)" opacity="0.95"><title>2014-05 — x 13,010, resid +1,470</title></circle>
+<circle cx="591.9752530829473" cy="60.5437066580333" r="2.6" fill="rgb(126,151,77)" opacity="0.95"><title>2014-06 — x 10,986, resid +1,786</title></circle>
+<circle cx="532.139337412292" cy="49.76269646038605" r="2.6" fill="rgb(124,152,77)" opacity="0.95"><title>2014-07 — x 9,761, resid +2,176</title></circle>
+<circle cx="524.7636449500317" cy="48.22251691406382" r="2.6" fill="rgb(122,154,78)" opacity="0.95"><title>2014-08 — x 9,610, resid +2,231</title></circle>
+<circle cx="649.1246582541039" cy="63.535117024352104" r="2.6" fill="rgb(119,155,78)" opacity="0.95"><title>2014-09 — x 12,156, resid +1,678</title></circle>
+<circle cx="796.247742335748" cy="68.52023074575209" r="2.6" fill="rgb(117,157,79)" opacity="0.95"><title>2014-10 — x 15,168, resid +1,498</title></circle>
+<circle cx="776.3675646394568" cy="78.47699156416746" r="2.6" fill="rgb(114,158,79)" opacity="0.95"><title>2014-11 — x 14,761, resid +1,139</title></circle>
+<circle cx="696.3095517543921" cy="54.4178593045022" r="2.6" fill="rgb(112,160,79)" opacity="0.95"><title>2014-12 — x 13,122, resid +2,008</title></circle>
+<circle cx="707.9348153704052" cy="74.16042047144975" r="2.6" fill="rgb(110,161,80)" opacity="0.95"><title>2015-01 — x 13,360, resid +1,294</title></circle>
+<circle cx="706.909056816051" cy="84.24878557582778" r="2.6" fill="rgb(107,163,80)" opacity="0.95"><title>2015-02 — x 13,339, resid +930</title></circle>
+<circle cx="783.059418065481" cy="88.50546651727436" r="2.6" fill="rgb(105,164,80)" opacity="0.95"><title>2015-03 — x 14,898, resid +776</title></circle>
+<circle cx="773.0949063946127" cy="88.13595104323886" r="2.6" fill="rgb(102,166,81)" opacity="0.95"><title>2015-04 — x 14,694, resid +790</title></circle>
+<circle cx="782.2290420929087" cy="61.97159847156584" r="2.6" fill="rgb(100,168,81)" opacity="0.95"><title>2015-05 — x 14,881, resid +1,735</title></circle>
+<circle cx="664.1202714058518" cy="73.05476445882988" r="2.6" fill="rgb(97,169,81)" opacity="0.95"><title>2015-06 — x 12,463, resid +1,334</title></circle>
+<circle cx="610.9273635157754" cy="43.49934827720128" r="2.6" fill="rgb(95,171,82)" opacity="0.95"><title>2015-07 — x 11,374, resid +2,402</title></circle>
+<circle cx="602.2328386264883" cy="58.695312438782395" r="2.6" fill="rgb(93,172,82)" opacity="0.95"><title>2015-08 — x 11,196, resid +1,853</title></circle>
+<circle cx="723.5654219129437" cy="90.90907410995611" r="2.6" fill="rgb(90,174,83)" opacity="0.95"><title>2015-09 — x 13,680, resid +690</title></circle>
+<circle cx="843.4814814814815" cy="111.1304255734767" r="2.6" fill="rgb(88,175,83)" opacity="0.95"><title>2015-10 — x 16,135, resid -41</title></circle>
+<circle cx="824.5293710486536" cy="116.35257130010878" r="2.6" fill="rgb(85,177,83)" opacity="0.95"><title>2015-11 — x 15,747, resid -229</title></circle>
+<circle cx="731.5272621205493" cy="76.16353493481623" r="2.6" fill="rgb(83,178,84)" opacity="0.95"><title>2015-12 — x 13,843, resid +1,222</title></circle>
+<circle cx="701.5360358170534" cy="78.49835755776351" r="2.6" fill="rgb(81,180,84)" opacity="0.95"><title>2016-01 — x 13,229, resid +1,138</title></circle>
+<circle cx="735.5814506925202" cy="87.35394093967479" r="2.6" fill="rgb(78,181,84)" opacity="0.95"><title>2016-02 — x 13,926, resid +818</title></circle>
+<circle cx="788.0905195463606" cy="93.6133430971235" r="2.6" fill="rgb(76,183,85)" opacity="0.95"><title>2016-03 — x 15,001, resid +592</title></circle>
+<circle cx="782.1801964474632" cy="127.24805851567683" r="2.6" fill="rgb(73,185,85)" opacity="0.95"><title>2016-04 — x 14,880, resid -623</title></circle>
+<circle cx="753.8497220891121" cy="112.71406180964411" r="2.6" fill="rgb(71,186,86)" opacity="0.95"><title>2016-05 — x 14,300, resid -98</title></circle>
+<circle cx="657.8680287888365" cy="72.90597165444322" r="2.6" fill="rgb(68,188,86)" opacity="0.95"><title>2016-06 — x 12,335, resid +1,340</title></circle>
+<circle cx="566.6243630967676" cy="68.7471421172182" r="2.6" fill="rgb(66,189,86)" opacity="0.95"><title>2016-07 — x 10,467, resid +1,490</title></circle>
+<circle cx="572.7789144228923" cy="71.370270142544" r="2.6" fill="rgb(64,191,87)" opacity="0.95"><title>2016-08 — x 10,593, resid +1,395</title></circle>
+<circle cx="686.4915770198601" cy="98.17942522963855" r="2.6" fill="rgb(61,192,87)" opacity="0.95"><title>2016-09 — x 12,921, resid +427</title></circle>
+<circle cx="796.9804270174294" cy="107.44026569905907" r="2.6" fill="rgb(59,194,87)" opacity="0.95"><title>2016-10 — x 15,183, resid +92</title></circle>
+<circle cx="782.5709616110266" cy="116.13250368160502" r="2.6" fill="rgb(56,195,88)" opacity="0.95"><title>2016-11 — x 14,888, resid -221</title></circle>
+<circle cx="705.1994592254609" cy="78.62728716481024" r="2.6" fill="rgb(54,197,88)" opacity="0.95"><title>2016-12 — x 13,304, resid +1,133</title></circle>
+<circle cx="768.0638049137331" cy="72.36870239812708" r="2.6" fill="rgb(52,199,89)" opacity="0.95"><title>2017-01 — x 14,591, resid +1,359</title></circle>
+<circle cx="762.7884752056264" cy="99.83207056723612" r="2.6" fill="rgb(51,198,90)" opacity="0.95"><title>2017-02 — x 14,483, resid +367</title></circle>
+<circle cx="829.6581638204241" cy="108.74204080409137" r="2.6" fill="rgb(51,197,92)" opacity="0.95"><title>2017-03 — x 15,852, resid +45</title></circle>
+<circle cx="828.6324052660699" cy="105.51311249706363" r="2.6" fill="rgb(50,197,93)" opacity="0.95"><title>2017-04 — x 15,831, resid +162</title></circle>
+<circle cx="819.9378803767829" cy="109.16373081133439" r="2.6" fill="rgb(50,196,95)" opacity="0.95"><title>2017-05 — x 15,653, resid +30</title></circle>
+<circle cx="678.6762737485908" cy="81.27760075817545" r="2.6" fill="rgb(50,195,96)" opacity="0.95"><title>2017-06 — x 12,761, resid +1,037</title></circle>
+<circle cx="601.3536170084705" cy="71.08018442126334" r="2.6" fill="rgb(49,195,98)" opacity="0.95"><title>2017-07 — x 11,178, resid +1,406</title></circle>
+<circle cx="604.9193491259871" cy="71.57926151688557" r="2.6" fill="rgb(49,194,99)" opacity="0.95"><title>2017-08 — x 11,251, resid +1,388</title></circle>
+<circle cx="691.1319133371762" cy="83.36608759119824" r="2.6" fill="rgb(48,194,101)" opacity="0.95"><title>2017-09 — x 13,016, resid +962</title></circle>
+<circle cx="826.1901229937984" cy="123.73728425468671" r="2.6" fill="rgb(48,193,102)" opacity="0.95"><title>2017-10 — x 15,781, resid -496</title></circle>
+<circle cx="822.6732365217272" cy="118.51251778178177" r="2.6" fill="rgb(48,192,104)" opacity="0.95"><title>2017-11 — x 15,709, resid -307</title></circle>
+<circle cx="720.3904549589905" cy="74.36621301762099" r="2.6" fill="rgb(47,192,105)" opacity="0.95"><title>2017-12 — x 13,615, resid +1,287</title></circle>
+<circle cx="749.4536139990231" cy="71.2286693486588" r="2.6" fill="rgb(47,191,107)" opacity="0.95"><title>2018-01 — x 14,210, resid +1,400</title></circle>
+<circle cx="702.9037138895255" cy="85.71992566637456" r="2.6" fill="rgb(46,190,108)" opacity="0.95"><title>2018-02 — x 13,257, resid +877</title></circle>
+<circle cx="754.3870241890119" cy="77.78647396395442" r="2.6" fill="rgb(46,190,110)" opacity="0.95"><title>2018-03 — x 14,311, resid +1,164</title></circle>
+<circle cx="780.4217532114276" cy="104.64589182177119" r="2.6" fill="rgb(46,189,112)" opacity="0.95"><title>2018-04 — x 14,844, resid +193</title></circle>
+<circle cx="759.2715887335552" cy="101.22442077900057" r="2.6" fill="rgb(45,189,113)" opacity="0.95"><title>2018-05 — x 14,411, resid +317</title></circle>
+<circle cx="607.947779143604" cy="105.4554723396139" r="2.6" fill="rgb(45,188,115)" opacity="0.95"><title>2018-06 — x 11,313, resid +164</title></circle>
+<circle cx="545.327661682559" cy="87.17194975714679" r="2.6" fill="rgb(45,187,116)" opacity="0.95"><title>2018-07 — x 10,031, resid +825</title></circle>
+<circle cx="577.2238681584266" cy="83.73800753924341" r="2.6" fill="rgb(44,187,118)" opacity="0.95"><title>2018-08 — x 10,684, resid +949</title></circle>
+<circle cx="637.1574751199728" cy="99.2709061757789" r="2.6" fill="rgb(44,186,119)" opacity="0.95"><title>2018-09 — x 11,911, resid +388</title></circle>
+<circle cx="754.4358698344573" cy="122.09389608687887" r="2.6" fill="rgb(43,185,121)" opacity="0.95"><title>2018-10 — x 14,312, resid -437</title></circle>
+<circle cx="732.7972489021305" cy="127.47251933992325" r="2.6" fill="rgb(43,185,122)" opacity="0.95"><title>2018-11 — x 13,869, resid -631</title></circle>
+<circle cx="629.1956349123673" cy="106.09805467386659" r="2.6" fill="rgb(43,184,124)" opacity="0.95"><title>2018-12 — x 11,748, resid +141</title></circle>
+<circle cx="671.2028899954396" cy="116.04488023474212" r="2.6" fill="rgb(42,184,125)" opacity="0.95"><title>2019-01 — x 12,608, resid -218</title></circle>
+<circle cx="637.743622865318" cy="115.87696411284091" r="2.6" fill="rgb(42,183,127)" opacity="0.95"><title>2019-02 — x 11,923, resid -212</title></circle>
+<circle cx="703.3921703439798" cy="141.2913639724688" r="2.6" fill="rgb(41,182,128)" opacity="0.95"><title>2019-03 — x 13,267, resid -1,130</title></circle>
+<circle cx="689.7153896192586" cy="147.29055583276477" r="2.6" fill="rgb(41,182,130)" opacity="0.95"><title>2019-04 — x 12,987, resid -1,347</title></circle>
+<circle cx="695.1861019091472" cy="125.39945588359511" r="2.6" fill="rgb(41,181,132)" opacity="0.95"><title>2019-05 — x 13,099, resid -556</title></circle>
+<circle cx="596.0294416549183" cy="112.46121995640083" r="2.6" fill="rgb(40,181,133)" opacity="0.95"><title>2019-06 — x 11,069, resid -89</title></circle>
+<circle cx="558.6136772437167" cy="97.43803533907545" r="2.6" fill="rgb(40,180,135)" opacity="0.95"><title>2019-07 — x 10,303, resid +454</title></circle>
+<circle cx="555.7806298078815" cy="89.48380304269655" r="2.6" fill="rgb(39,179,136)" opacity="0.95"><title>2019-08 — x 10,245, resid +741</title></circle>
+<circle cx="621.0872577684254" cy="103.34709927264609" r="2.6" fill="rgb(39,179,138)" opacity="0.95"><title>2019-09 — x 11,582, resid +240</title></circle>
+<circle cx="737.926041673901" cy="138.77199175448848" r="2.6" fill="rgb(39,178,139)" opacity="0.95"><title>2019-10 — x 13,974, resid -1,039</title></circle>
+<circle cx="736.5583636014288" cy="154.80723542463178" r="2.6" fill="rgb(38,177,141)" opacity="0.95"><title>2019-11 — x 13,946, resid -1,618</title></circle>
+<circle cx="667.9302317505956" cy="137.19381219974554" r="2.6" fill="rgb(38,177,142)" opacity="0.95"><title>2019-12 — x 12,541, resid -982</title></circle>
+<circle cx="671.8378833862303" cy="133.6287050164541" r="2.6" fill="rgb(38,176,144)" opacity="0.95"><title>2020-01 — x 12,621, resid -853</title></circle>
+<circle cx="641.3093549828346" cy="139.63285298721752" r="2.6" fill="rgb(37,176,145)" opacity="0.95"><title>2020-02 — x 11,996, resid -1,070</title></circle>
+<circle cx="699.0937535447817" cy="143.20846619220632" r="2.6" fill="rgb(37,175,147)" opacity="0.95"><title>2020-03 — x 13,179, resid -1,199</title></circle>
+<circle cx="828.3393313933974" cy="161.74773621457592" r="2.6" fill="rgb(36,174,148)" opacity="0.95"><title>2020-04 — x 15,825, resid -1,869</title></circle>
+<circle cx="824.236297175981" cy="172.78100178244398" r="2.6" fill="rgb(36,174,150)" opacity="0.95"><title>2020-05 — x 15,741, resid -2,268</title></circle>
+<circle cx="722.9792741675985" cy="158.44283878674472" r="2.6" fill="rgb(36,173,152)" opacity="0.95"><title>2020-06 — x 13,668, resid -1,750</title></circle>
+<circle cx="635.2524949476009" cy="119.83376229509726" r="2.6" fill="rgb(35,172,153)" opacity="0.95"><title>2020-07 — x 11,872, resid -355</title></circle>
+<circle cx="615.2257803149735" cy="130.871791279467" r="2.6" fill="rgb(35,172,155)" opacity="0.95"><title>2020-08 — x 11,462, resid -754</title></circle>
+<circle cx="651.3715579445939" cy="135.94989244104136" r="2.6" fill="rgb(34,171,156)" opacity="0.95"><title>2020-09 — x 12,202, resid -937</title></circle>
+<circle cx="729.0849798482776" cy="164.76724900386046" r="2.6" fill="rgb(34,171,158)" opacity="0.95"><title>2020-10 — x 13,793, resid -1,978</title></circle>
+<circle cx="709.8886411882224" cy="176.89508648075372" r="2.6" fill="rgb(34,170,159)" opacity="0.95"><title>2020-11 — x 13,400, resid -2,416</title></circle>
+<circle cx="687.712718155996" cy="151.22393749761696" r="2.6" fill="rgb(33,169,161)" opacity="0.95"><title>2020-12 — x 12,946, resid -1,489</title></circle>
+<circle cx="698.898370963" cy="151.97789856916563" r="2.6" fill="rgb(33,169,162)" opacity="0.95"><title>2021-01 — x 13,175, resid -1,516</title></circle>
+<circle cx="641.016281110162" cy="151.09811403062773" r="2.6" fill="rgb(32,168,164)" opacity="0.95"><title>2021-02 — x 11,990, resid -1,484</title></circle>
+<circle cx="707.4952045613962" cy="167.7458640574976" r="2.6" fill="rgb(32,167,165)" opacity="0.95"><title>2021-03 — x 13,351, resid -2,086</title></circle>
+<circle cx="664.8529560875334" cy="174.38057768512797" r="2.6" fill="rgb(32,167,167)" opacity="0.95"><title>2021-04 — x 12,478, resid -2,325</title></circle>
+<circle cx="613.027726269929" cy="192.2201032918395" r="2.6" fill="rgb(31,166,168)" opacity="0.95"><title>2021-05 — x 11,417, resid -2,970</title></circle>
+<circle cx="512.5522335886734" cy="181.64862379496105" r="2.6" fill="rgb(31,166,170)" opacity="0.95"><title>2021-06 — x 9,360, resid -2,588</title></circle>
+<circle cx="446.46407530100265" cy="157.95526099530116" r="2.6" fill="rgb(31,165,172)" opacity="0.95"><title>2021-07 — x 8,007, resid -1,732</title></circle>
+<circle cx="448.9063575732743" cy="152.9376359263279" r="2.6" fill="rgb(30,164,173)" opacity="0.95"><title>2021-08 — x 8,057, resid -1,551</title></circle>
+<circle cx="474.6480127230175" cy="157.29075762216027" r="2.6" fill="rgb(30,164,175)" opacity="0.95"><title>2021-09 — x 8,584, resid -1,708</title></circle>
+<circle cx="525.8870947952767" cy="194.27681025598932" r="2.6" fill="rgb(29,163,176)" opacity="0.95"><title>2021-10 — x 9,633, resid -3,044</title></circle>
+<circle cx="519.1952413692522" cy="196.95652173913044" r="2.6" fill="rgb(29,163,178)" opacity="0.95"><title>2021-11 — x 9,496, resid -3,141</title></circle>
+<circle cx="463.4623599160133" cy="183.55899690306904" r="2.6" fill="rgb(29,162,179)" opacity="0.95"><title>2021-12 — x 8,355, resid -2,657</title></circle>
+<circle cx="483.8798397122043" cy="178.57115511180317" r="2.6" fill="rgb(28,161,181)" opacity="0.95"><title>2022-01 — x 8,773, resid -2,477</title></circle>
+<circle cx="432.05460989459993" cy="172.76625541011452" r="2.6" fill="rgb(28,161,182)" opacity="0.95"><title>2022-02 — x 7,712, resid -2,267</title></circle>
+<circle cx="455.8912848719712" cy="190.705189691639" r="2.6" fill="rgb(27,160,184)" opacity="0.95"><title>2022-03 — x 8,200, resid -2,915</title></circle>
+<circle cx="441.72604769279565" cy="181.97079726210595" r="2.6" fill="rgb(27,159,185)" opacity="0.95"><title>2022-04 — x 7,910, resid -2,599</title></circle>
+<circle cx="450.8113377456462" cy="189.57546211046963" r="2.6" fill="rgb(27,159,187)" opacity="0.95"><title>2022-05 — x 8,096, resid -2,874</title></circle>
+<circle cx="416.4240033520614" cy="169.1687750988801" r="2.6" fill="rgb(26,158,188)" opacity="0.95"><title>2022-06 — x 7,392, resid -2,137</title></circle>
+<circle cx="393.22232176548073" cy="153.75211130425524" r="2.6" fill="rgb(26,158,190)" opacity="0.95"><title>2022-07 — x 6,917, resid -1,580</title></circle>
+<circle cx="376.17519150502466" cy="151.4241408353956" r="2.6" fill="rgb(25,157,191)" opacity="0.95"><title>2022-08 — x 6,568, resid -1,496</title></circle>
+<circle cx="388.63083109361" cy="159.82519086550883" r="2.6" fill="rgb(25,156,193)" opacity="0.95"><title>2022-09 — x 6,823, resid -1,800</title></circle>
+<circle cx="455.94013051741666" cy="180.94052442895955" r="2.6" fill="rgb(25,156,195)" opacity="0.95"><title>2022-10 — x 8,201, resid -2,562</title></circle>
+<circle cx="427.75619309540184" cy="183.460035408263" r="2.6" fill="rgb(24,155,196)" opacity="0.95"><title>2022-11 — x 7,624, resid -2,653</title></circle>
+<circle cx="385.40701849421146" cy="165.09070113556535" r="2.6" fill="rgb(24,154,198)" opacity="0.95"><title>2022-12 — x 6,757, resid -1,990</title></circle>
+<circle cx="404.5545115088212" cy="160.59565450829896" r="2.6" fill="rgb(24,154,199)" opacity="0.95"><title>2023-01 — x 7,149, resid -1,827</title></circle>
+<circle cx="366.35721677049264" cy="157.421074300745" r="2.6" fill="rgb(23,153,201)" opacity="0.95"><title>2023-02 — x 6,367, resid -1,713</title></circle>
+<circle cx="411.93020397108154" cy="171.88154565714686" r="2.6" fill="rgb(23,153,202)" opacity="0.95"><title>2023-03 — x 7,300, resid -2,235</title></circle>
+<circle cx="383.01358186738526" cy="167.84675140857635" r="2.6" fill="rgb(22,152,204)" opacity="0.95"><title>2023-04 — x 6,708, resid -2,089</title></circle>
+<circle cx="403.6752898908034" cy="163.81623518272312" r="2.6" fill="rgb(22,151,205)" opacity="0.95"><title>2023-05 — x 7,131, resid -1,944</title></circle>
+<circle cx="358.1511483356599" cy="149.14300340134452" r="2.6" fill="rgb(22,151,207)" opacity="0.95"><title>2023-06 — x 6,199, resid -1,414</title></circle>
+<circle cx="349.01701263736396" cy="155.06839238936334" r="2.6" fill="rgb(21,150,208)" opacity="0.95"><title>2023-07 — x 6,012, resid -1,628</title></circle>
+<circle cx="326.1572505689013" cy="148.79409100447444" r="2.6" fill="rgb(21,149,210)" opacity="0.95"><title>2023-08 — x 5,544, resid -1,401</title></circle>
+<circle cx="337.8313598303598" cy="159.5472139680344" r="2.6" fill="rgb(20,149,211)" opacity="0.95"><title>2023-09 — x 5,783, resid -1,790</title></circle>
+<circle cx="386.2373944667838" cy="173.0468064389593" r="2.6" fill="rgb(20,148,213)" opacity="0.95"><title>2023-10 — x 6,774, resid -2,277</title></circle>
+<circle cx="389.3146701298461" cy="171.49279900031135" r="2.6" fill="rgb(20,148,215)" opacity="0.95"><title>2023-11 — x 6,837, resid -2,221</title></circle>
+<circle cx="344.0836024473752" cy="147.569240630642" r="2.6" fill="rgb(19,147,216)" opacity="0.95"><title>2023-12 — x 5,911, resid -1,357</title></circle>
+<circle cx="346.67242165598316" cy="146.14939643215436" r="2.6" fill="rgb(19,146,218)" opacity="0.95"><title>2024-01 — x 5,964, resid -1,306</title></circle>
+<circle cx="339.05250096649564" cy="143.43039787490756" r="2.6" fill="rgb(18,146,219)" opacity="0.95"><title>2024-02 — x 5,808, resid -1,207</title></circle>
+<circle cx="337.48944031224175" cy="152.01067903826006" r="2.6" fill="rgb(18,145,221)" opacity="0.95"><title>2024-03 — x 5,776, resid -1,517</title></circle>
+<circle cx="332.3118018950259" cy="146.15674969889147" r="2.6" fill="rgb(18,145,222)" opacity="0.95"><title>2024-04 — x 5,670, resid -1,306</title></circle>
+<circle cx="332.3118018950259" cy="147.51339705265215" r="2.6" fill="rgb(17,144,224)" opacity="0.95"><title>2024-05 — x 5,670, resid -1,355</title></circle>
+<circle cx="288.8391774485906" cy="136.4186070936738" r="2.6" fill="rgb(17,143,225)" opacity="0.95"><title>2024-06 — x 4,780, resid -954</title></circle>
+<circle cx="262.5602201989476" cy="132.4124090629785" r="2.6" fill="rgb(17,143,227)" opacity="0.95"><title>2024-07 — x 4,242, resid -810</title></circle>
+<circle cx="254.40299740956033" cy="129.7357806832898" r="2.6" fill="rgb(16,142,228)" opacity="0.95"><title>2024-08 — x 4,075, resid -713</title></circle>
+<circle cx="254.98914515490554" cy="127.07190886081247" r="2.6" fill="rgb(16,141,230)" opacity="0.95"><title>2024-09 — x 4,087, resid -617</title></circle>
+<circle cx="275.50431624198734" cy="131.87493139383156" r="2.6" fill="rgb(15,141,231)" opacity="0.95"><title>2024-10 — x 4,507, resid -790</title></circle>
+<circle cx="252.49801723718846" cy="124.55002376184443" r="2.6" fill="rgb(15,140,233)" opacity="0.95"><title>2024-11 — x 4,036, resid -526</title></circle>
+<circle cx="238.08855183078575" cy="122.61057635981682" r="2.6" fill="rgb(15,140,235)" opacity="0.95"><title>2024-12 — x 3,741, resid -455</title></circle>
+<circle cx="237.40471279454968" cy="125.3954155446688" r="2.6" fill="rgb(14,139,236)" opacity="0.95"><title>2025-01 — x 3,727, resid -556</title></circle>
+<circle cx="202.91968711007402" cy="113.72025358973082" r="2.6" fill="rgb(14,138,238)" opacity="0.95"><title>2025-02 — x 3,021, resid -134</title></circle>
+<circle cx="213.32380958995125" cy="114.99896666925265" r="2.6" fill="rgb(13,138,239)" opacity="0.95"><title>2025-03 — x 3,234, resid -181</title></circle>
+<circle cx="184.11411361358233" cy="113.92962249257144" r="2.6" fill="rgb(13,137,241)" opacity="0.95"><title>2025-04 — x 2,636, resid -142</title></circle>
+<circle cx="179.47377729626623" cy="114.23513944997924" r="2.6" fill="rgb(13,136,242)" opacity="0.95"><title>2025-05 — x 2,541, resid -153</title></circle>
+<circle cx="167.06698335312626" cy="109.69127105617123" r="2.6" fill="rgb(12,136,244)" opacity="0.95"><title>2025-06 — x 2,287, resid +11</title></circle>
+<circle cx="157.786310718494" cy="102.2454808904898" r="2.6" fill="rgb(12,135,245)" opacity="0.95"><title>2025-07 — x 2,097, resid +280</title></circle>
+<circle cx="149.14063147465237" cy="100.81048297852111" r="2.6" fill="rgb(11,135,247)" opacity="0.95"><title>2025-08 — x 1,920, resid +332</title></circle>
+<circle cx="140.25072400358357" cy="103.45713538653658" r="2.6" fill="rgb(11,134,248)" opacity="0.95"><title>2025-09 — x 1,738, resid +236</title></circle>
+<circle cx="150.0686987381156" cy="107.64890041473669" r="2.6" fill="rgb(11,133,250)" opacity="0.95"><title>2025-10 — x 1,939, resid +85</title></circle>
+<circle cx="140.49495223081072" cy="106.96163557533659" r="2.6" fill="rgb(10,133,251)" opacity="0.95"><title>2025-11 — x 1,743, resid +110</title></circle>
+<circle cx="128.2835408694525" cy="102.14814577609035" r="2.6" fill="rgb(10,132,253)" opacity="0.95"><title>2025-12 — x 1,493, resid +284</title></circle>
+<circle cx="127.45316489688014" cy="101.75050430079153" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-01 — x 1,476, resid +298</title></circle>
+<circle cx="119.54017033472" cy="97.29022009830513" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-02 — x 1,314, resid +459</title></circle>
+<circle cx="117.73288145323897" cy="98.84979262535548" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-03 — x 1,277, resid +403</title></circle>
+<circle cx="115.48598176274906" cy="97.34060645317804" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-04 — x 1,231, resid +457</title></circle>
+<circle cx="109.72219560018797" cy="94.45510242386571" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-05 — x 1,113, resid +561</title></circle>
+<circle cx="103.03034217416366" cy="97.41168071389674" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-06 — x 976, resid +455</title></circle>
+<circle cx="100.68575119278289" cy="96.38338875305087" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-07 — x 928, resid +492</title></circle>
+<circle cx="87.30204434073426" cy="96.23316226222339" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-08 — x 654, resid +497</title></circle>
+<circle cx="87.15550740439797" cy="101.4951192122156" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-09 — x 651, resid +307</title></circle>
+<circle cx="87.98588337697032" cy="97.32445837383051" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-10 — x 668, resid +458</title></circle>
+<circle cx="62.0" cy="107.13093876877585" r="2.6" fill="rgb(10,132,255)" opacity="0.95"><title>2026-11 — x 136, resid +104</title></circle>
+</svg><defs><linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff453a"/><stop offset="0.5" stop-color="#34c759"/><stop offset="1" stop-color="#0a84ff"/></linearGradient></defs><rect x="84" y="826" width="752" height="10" fill="url(#tg)" stroke="#c8c8c8" stroke-width="0.5"/><text x="84" y="850" font-size="11" fill="#1a1a1a" font-weight="600">2010</text><text x="460.0" y="850" font-size="11" fill="#1a1a1a" font-weight="600">2017</text><text x="836" y="850" text-anchor="end" font-size="11" fill="#1a1a1a" font-weight="600">2026</text></svg>

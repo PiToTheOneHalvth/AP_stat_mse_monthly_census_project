@@ -7,9 +7,10 @@ One script, one dataset: monthly counts for math.stackexchange.com, 2010-07 → 
 
 - `census.py` — fetches the three monthly counts (questions, answers, new users) via the
   Stack Exchange API v2.3 (`filter=total` endpoints; census, no sampling).
-- `draw.py` — draws both graphs from `mse_monthly_census_full.csv` (pure stdlib, no deps):
-  `mse_answers_vs_questions.html` (flagship scatter with fitted line, RGB time colors) and
-  `mse_2x2_grid.html` (linear vs nonlinear/no-correlation comparison).
+- `draw.py` — draws both graphs from `mse_monthly_census_full.csv` as standalone **SVG**
+  (pure stdlib, no deps): `mse_answers_vs_questions.svg` (flagship scatter + residual plot,
+  fitted line, RGB time colors) and `mse_2x2_grid.svg` (four variables, each with residual
+  plot). Labels per scatter: r and s only.
 - `progress.json` — resume state; one entry per month.
 - `mse_monthly_census_full.csv` — the finished dataset: `month, questions, answers, users`.
 
@@ -18,7 +19,7 @@ One script, one dataset: monthly counts for math.stackexchange.com, 2010-07 → 
 ```
 python3 census.py            # full run / resume
 python3 census.py --limit 3  # test: fetch at most 3 missing months
-python3 draw.py              # regenerate both graph HTML files
+python3 draw.py              # regenerate both graph SVG files
 ```
 
 Requirements: `curl` on PATH, Python 3, and an API key in `~/.hermes/.env` as
